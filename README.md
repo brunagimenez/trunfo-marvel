@@ -41,5 +41,9 @@ Para realizar o projeto tive apoio a Trybe e meus colegas da tribo 28-B, segui a
 
   * API Deck of Card https://www.deckofcardsapi.com/
 
-  <img src='https://miro.medium.com/max/578/0*T_qnjkS2GPw7995A.png' alt='React' width='300px'>
+  <img src='https://miro.medium.com/max/578/0*T_qnjkS2GPw7995A.png' alt='React' width='150px'>
+  <img src='https://arquivo.devmedia.com.br/noticias/artigos/artigo_javascript-reduce-reduzindo-uma-colecao-em-um-unico-objeto_37981.jpg' alt='JavaScript' width='150px'>
+  <img src='https://devporai.com.br/wp-content/uploads/2020/09/html5.jpg' alt='HTML5' width='150px'>
+  <img src='https://rogertakemiya.com.br/wp-content/uploads/2020/04/css-3.png' alt='CSS3' width='150px'>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMd7eiGMX9FwRLC0uJTDewSjw_7_WvCF4ABLdwztLrCnPEXrqW0gG-pH8eT-fYPLlghjY&usqp=CAU' alt='Sass' width='150px'>
 </details>
