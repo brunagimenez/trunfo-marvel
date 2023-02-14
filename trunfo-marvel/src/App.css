@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+.saved-cards {
+    background-image: url("./image/BackgroundMarveljpeg");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.saved-card {
+    display: flex;
+    justify-content: center;
+}
+
+.li-card {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center
+}
+
+.h2-card {
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 5px;
+}
+
+.delete-button{
+    padding: 10px 20px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    background-color: #ed1d24;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+header {
+    display: flex;
+    background-color: #ed1d24;
+    flex-direction: column;
+    align-items: center;
+    /* border: 2px black solid; */
+}
+.h1-header {
+    font-size: 20px;
+    margin-top: -3px;
+    letter-spacing: 15px;
+    font-family: 'Aboreto', cursive;
+    color: white;
+}
+
+.image-card{
+    height: 200px;
+}
+
+.header {
+    display: flex;
+    width: 20%;
+}
+
+.save-button {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 10px;
+}
+
+.buttonSave {
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Aboreto', cursive;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+form {
+    display: flex;
+    font-family: 'Aboreto', cursive;
+    flex-direction: column;
+    background-color: rgb(230, 230, 230);
+    max-width: 430px;
+    flex-flow: column nowrap;
+    color: black;
+    border-radius: 5%;
+    margin: 20px;
+    padding: 50px;
+    box-shadow:
+  9.5px 11px 5.7px rgba(0, 0, 0, 0.042),
+  19.8px 22.8px 15.8px rgba(0, 0, 0, 0.065),
+  31.8px 36.6px 38px rgba(0, 0, 0, 0.072),
+  46px 53px 126px rgba(0, 0, 0, 0.08)
+;
+}
+
+.rare-trunfo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rare {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    justify-content: center;
+    background-color: #ed1d24;
+    overflow-wrap: break-word;
+    align-items: flex-end;
+    width: 80%;
+    margin-left: -21px;
+    height: 50%;
+    z-index: 0;
+}
+
+.rare-saved {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    justify-content: center;
+    background-color: #ed1d24;
+    overflow-wrap: break-word;
+    align-items: flex-end;
+    width: 80%;
+    margin-left: -21px;
+    height: 50px;
+    z-index: 0;
+}
+
+.trunfo {
+    display: flex;
+    background-color: #d4d1d1;
+    color: #ed1d24;
+    filter: drop-shadow(0 0 3px rgb(255, 255, 255));
+    border-radius: 5px;
+    width: 140px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    z-index: 1;
+}
+.card  {
+    position: relative;
+    color: white;
+    font-family: 'Staatliches', cursive;
+    max-width: 300px;
+    display: flex;
+    flex-flow: column nowrap;
+    border: white 15px solid;
+    background-color: black;
+    border-radius: 1.8rem;
+    padding: 1.3rem;
+    height: 520px;
+    width: 355px;
+    box-shadow:
+  9.5px 11px 5.7px rgba(0, 0, 0, 0.042),
+  19.8px 22.8px 15.8px rgba(0, 0, 0, 0.065),
+  31.8px 36.6px 38px rgba(0, 0, 0, 0.072),
+  46px 53px 126px rgba(0, 0, 0, 0.08)
+;
+}
+
+.card-logo {
+    filter: drop-shadow(0 0 3px rgb(31,19,90));
+    left: 3.2rem;
+    position: absolute;
+    top: 2rem;
+    width: 127px
+}
+
+.attrType {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2px 10px;
+    margin: 5px;
+}
+
+.icon-power {
+    width: 20px;
+    margin-bottom: 10px;
+}
+.attr-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ed1d24;
+    overflow-wrap: break-word;
+    align-items: flex-end;
+    width: 113.7%;
+    margin-left: -21px;
+    
+}
+
+.description {
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Poiret One', cursive;
+    letter-spacing: 1px;
+}
+
+.name-card {
+    font-size: 20px;
+    letter-spacing: 2.5px;
+    background-color: #ed1d24;
+    overflow-wrap: break-word;
+    margin-left: 136px;
+    padding: .5rem 1rem .5rem 3rem;
+    text-transform: uppercase;
+    width: 40%;
+}
+
+label {
+    margin: 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: 900;
+}
+
+.has-trunfo {
+    display: flex;
+    font-size: 15px;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    padding: 2px;
+}
+
+.attr {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cardName, .cardDescription, .cardImage{
+    display: flex;
+    background-color: #d4d1d1;
+    color: #505050;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.cardAttr, .select-rare {
+    display: flex;
+    background-color: #1a1a1a;
+    color: #d4d1d1;
+    border-radius: 5px;
+    width: 70%;
+    height: 25px;
+    margin: 10px;
+}
+
+.select {
+    display: flex;
+    justify-content: center
+}
+
+.inputAttr {
+    width: 50px;
+    height: 27px;
+    margin: 10px;
+}
+
+legend{
+    padding: 10px;
+    display: flex;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    font-weight: 900;
+    margin: -30px -25px 20px -25px;
+}
+
+.add-card{
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: #ed1d24;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+input, textarea, select {
+  background-color: #d4d1d1;
+  border-radius: 5px;
+  margin-left: 20px;
+  border: none;
+  padding: 5px;
+}
