@@ -12,8 +12,6 @@ Para realizar o projeto tive apoio a Trybe e meus colegas da tribo 28-B, segui a
 
   * Visualizar todas as cartas que foram adicionadas ao baralho;
 
-  * Jogar com o baralho criado.
-
 </details>
 <details>
   <summary><strong>:memo: Habilidades</strong></summary><br />
@@ -37,10 +35,6 @@ Para realizar o projeto tive apoio a Trybe e meus colegas da tribo 28-B, segui a
 
   Neste projeto, foi ultilizado as seguintes ferramentas:
 
-  * API Marvel https://developer.marvel.com/
-
-  * API Deck of Card https://www.deckofcardsapi.com/
-
-  * React, JavaScript, HTML5, CSS3 e Sass.
+  * React, JavaScript, HTML5 e CSS3.
 
 </details>
