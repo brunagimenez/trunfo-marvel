@@ -15,3 +15,31 @@ Para realizar o projeto tive apoio a Trybe e meus colegas da tribo 28-B, segui a
   * Jogar com o baralho criado.
 
 </details>
+<details>
+  <summary><strong>:memo: Habilidades</strong></summary><br />
+
+  Neste projeto, coloco as seguintes habilidades em práticas:
+
+  * Ler o estado de um componente e usá-lo para alterar o que exibimos no browser
+
+  * Inicializar um componente, dando a ele um estado pré-definido.
+
+  * Atualizar o estado de um componente
+
+  * Capturar eventos utilizando a sintaxe do React
+
+  * Criar formulários utilizando sintaxe JSX com as tags: `input`, `textarea`, `select`, `form`, `checkbox`
+
+  * Transmitir informações de componentes filhos para componentes pais via callbacks
+</details>
+<details>
+  <summary><strong>Ultilizados no Projeto</strong></summary><br />
+
+  Neste projeto, foi ultilizado as seguintes ferramentas:
+
+  * API Marvel https://developer.marvel.com/
+
+  * API Deck of Card https://www.deckofcardsapi.com/
+
+  <img src='https://miro.medium.com/max/578/0*T_qnjkS2GPw7995A.png' alt='React' width='300px'>
+</details>
